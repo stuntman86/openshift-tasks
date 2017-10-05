@@ -70,7 +70,7 @@
        </snapshotRepository>
     </distributionManagement>
 
-<<<<<<< HEAD
+
     <dependencyManagement>
         <dependencies>
             <!-- JBoss distributes a complete set of Java EE 6 APIs including a Bill
@@ -88,7 +88,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-=======
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -107,7 +107,7 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
->>>>>>> 06af277... added site report
+
 
     <dependencies>
         <!-- Import the CDI API, we use provided scope as the API is included in JBoss EAP 6 -->
